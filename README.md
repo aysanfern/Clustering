@@ -1,2 +1,2 @@
 # Clustering
-An attempt at using K-Means and Hierarchical clustering. 
+Using K-Means and Hierarchical clustering. 
